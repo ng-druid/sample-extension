@@ -1,0 +1,19 @@
+{
+	"ats": [
+		{
+			"at": "cnn"
+		}
+	],
+	"comment": "Some zinger about the story.",
+	"hashes": [
+		{
+			"hash": "cnn"
+		}
+	],
+	"id": "f6165d71-73bc-4b32-a0c0-a7ce268edfaa",
+	"target": {
+		"url": "https://cnn.com/whatever-story-link"
+	},
+	"type": "URL",
+	"userId": "b7a9bac5-5fef-4aa6-bf12-d536c156e453"
+}

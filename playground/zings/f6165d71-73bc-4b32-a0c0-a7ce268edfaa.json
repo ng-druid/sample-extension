@@ -2,6 +2,9 @@
 	"ats": [
 		{
 			"at": "cnn"
+		},
+		{
+			"at": "foxnews"
 		}
 	],
 	"comment": "Some zinger about the story.",
